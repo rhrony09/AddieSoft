@@ -159,7 +159,7 @@
         </div>
     </div>
 
-    <a href="//rhrony.com" target="_blank" class="made-by-me" title="Made by Tiberiu Raducea">Tiberiu Raducea</a>
+    <a href="//rhrony.com" target="_blank" class="made-by-me" title="RH Rony"></a>
 </body>
 
 </html>
