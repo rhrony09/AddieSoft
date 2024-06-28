@@ -155,7 +155,7 @@
                 <i class="fa fa-3x fa-cog" aria-hidden="true"></i>
             </div>
             <h1 class="maintenance">Under Maintenance</h1>
-            <p>Someone has kidnapped our site. We are negotiating ransom and will resolve this issue in 24/7 hours 🤪</p>
+            <p>Sorry for the inconvenience but we're performing some maintenance at the moment. We'll be back online shortly!</p>
         </div>
     </div>
 
